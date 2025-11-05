@@ -1,4 +1,5 @@
 # 🚀 **DevScribe - Your Simple Yet Powerful CMS**
+## React & Django Full Stack 2025
 
 DevScribe is a sleek, modern **Content Management System (CMS)** that combines the efficiency of **React JS** and **Tailwind CSS** on the frontend with the robustness of **Django** on the backend. It leverages **SQLite3** as its database to offer a smooth and efficient development experience.
 
